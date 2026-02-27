@@ -1,7 +1,0 @@
-
-    Directory: C:\Users\ninel\OneDrive\Документы\gurieva_ne\projects_3\task_3_2\GenomicData
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a---          27.02.2026    13:05              0 sequencing_backup.log
-
