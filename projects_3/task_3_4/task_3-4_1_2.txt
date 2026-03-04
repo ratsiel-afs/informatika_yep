@@ -1,0 +1,27 @@
+ls -lah
+
+total 44K
+drwxr-x--- 14 mint mint  460 Mar  4 19:41 .
+drwxr-xr-x  1 root root   60 Mar  4 19:30 ..
+-rw-------  1 mint mint   49 Mar  4 19:31 .Xauthority
+-rw-r--r--  1 mint mint  220 Mar  4 19:30 .bash_logout
+-rw-r--r--  1 mint mint 3.7K Mar  4 19:30 .bashrc
+drwx------  9 mint mint  180 Mar  4 19:31 .cache
+drwxr-xr-x 15 mint mint  420 Mar  4 19:41 .config
+-rw-r--r--  1 mint mint   22 Mar  4 19:30 .gtkrc-2.0
+-rw-r--r--  1 mint mint  516 Mar  4 19:30 .gtkrc-xfce
+drwx------  2 mint mint   40 Mar  4 19:30 .gvfs
+-rw-------  1 mint mint   20 Mar  4 19:35 .lesshst
+drwxr-xr-x  4 mint mint   80 Mar  4 19:31 .local
+-rw-r--r--  1 mint mint  807 Mar  4 19:30 .profile
+-rw-------  1 mint mint  11K Mar  4 19:40 .xsession-errors
+drwxr-xr-x  2 mint mint   60 Mar  4 19:30 Desktop
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Documents
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Downloads
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Music
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Pictures
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Public
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Templates
+drwxr-xr-x  2 mint mint   40 Mar  4 19:31 Videos
+-rw-rw-r--  1 mint mint  297 Mar  4 19:41 task_3-4_1_1.txt
+

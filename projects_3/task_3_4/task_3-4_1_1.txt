@@ -1,0 +1,5 @@
+bin                dev   lib.usr-is-merged  opt   run                 sys
+bin.usr-is-merged  etc   lib64              proc  sbin                tmp
+boot               home  media              rofs  sbin.usr-is-merged  usr
+cdrom              lib   mnt                root  srv                 var
+
