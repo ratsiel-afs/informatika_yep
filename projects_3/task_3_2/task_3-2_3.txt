@@ -1,0 +1,12 @@
+
+   Destination: google.com
+
+Ping Source           Address                   Latency BufferSize Status
+                                                   (ms)        (B)
+---- ------           -------                   ------- ---------- ------
+   1 ratsiel          108.177.14.139                 64         32 Success
+   2 ratsiel          108.177.14.139                 13         32 Success
+   3 ratsiel          108.177.14.139                 31         32 Success
+   4 ratsiel          108.177.14.139                 16         32 Success
+   5 ratsiel          108.177.14.139                 16         32 Success
+
